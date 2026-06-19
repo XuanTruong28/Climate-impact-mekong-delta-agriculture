@@ -1,13 +1,13 @@
 # 🌦️ Agri-Price Forecasting: Climate Impact in the Mekong Delta
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<Xuan_Truong_28>/agri-price-forecasting-ml/blob/main/Weather_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1VML3xjLTzdL-ng1prPrEFtWx7PPT6-R8?hl=vi#scrollTo=YbfkLj-ZgLKQ)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-RandomForest-orange)
 
 ## 📌 1. Project Overview
 This seminar project investigates the complex relationship between climate change—specifically extreme weather events like saltwater intrusion and floods—and agricultural prices in the Mekong Delta (ĐBSCL) from 2021 to 2025. By applying Data Science and Machine Learning techniques, the study aims to quantify these impacts and establish a predictive framework to support decision-making for farmers and agricultural enterprises.
 
-👉 **[Read the Full Seminar Report (PDF)](Seminar_Tác_động_thời_tiết_lên_giá_nông_sản_trong_2021-2025.pdf)**
+👉 **[Read the Full Seminar Report (PDF)](https://drive.google.com/file/d/1WztsW3ohQS0RmvLyb4hYYFb70dCQWRwy/view?usp=drive_link)**
 
 ---
 
