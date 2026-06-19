@@ -9,7 +9,6 @@ This seminar project investigates the complex relationship between climate chang
 
 **[Read the Full Seminar Report (PDF)](https://drive.google.com/file/d/1WztsW3ohQS0RmvLyb4hYYFb70dCQWRwy/view?usp=drive_link)**
 
----
 
 ## 2. Technical Highlights
 * **Data Engineering & Preprocessing:**
@@ -23,7 +22,6 @@ This seminar project investigates the complex relationship between climate chang
     * Evaluated and compared **Random Forest** and **XGBoost** algorithms.
     * **Random Forest** emerged as the optimal model, achieving an $R^2$ score of up to **0.89** in the Freshwater zone, demonstrating high stability and precision in predicting price fluctuations.
 
----
 
 ## 3. Key Insights
 1. **Time-Lag Effect:** Our analysis confirmed that saltwater intrusion has a 30-day delayed impact on Durian prices, whereas rice prices react more immediately to flood-induced logistics disruptions.
