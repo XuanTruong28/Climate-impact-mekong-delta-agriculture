@@ -39,7 +39,7 @@ This seminar project investigates the complex relationship between climate chang
 
 
 ## 5. Repository Structure
-* `Weather_Analysis.ipynb`: The core notebook containing data cleaning, feature engineering, and model training processes.
+* `Seminar.ipynb`: The core notebook containing data cleaning, feature engineering, and model training processes.
 * `Seminar_Tác_động_thời_tiết_lên_giá_nông_sản_trong_2021-2025.pdf`: The detailed research report.
 * `data/`: Processed datasets used for model training.
 
