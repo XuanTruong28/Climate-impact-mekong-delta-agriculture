@@ -23,8 +23,8 @@ This seminar project investigates the complex relationship between climate chang
 * **Machine Learning Models:*** 
     * Evaluated and compared **Random Forest** and **XGBoost** algorithms.
     * **Random Forest** emerged as the optimal model, achieving an $R^2$ score of up to **0.89** in the Freshwater zone, demonstrating high stability and precision in predicting price fluctuations.
-*(Model Performance and Error Distribution)*
-![Model Performance](Charts/ActualnPredicted.png)
+* *(Model Performance and Error Distribution)*
+![Model Performance](Chart/ActualnPredict.png)
 
 
 ## 3. Key Insights
