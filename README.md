@@ -19,7 +19,7 @@ This seminar project investigates the complex relationship between climate chang
 * **Feature Engineering:**
     * Designed *Lag Features* (Lag 7 and Lag 30 days) to capture the biological delay of crops and market reaction time following environmental shocks.
     * Utilized *Moving Averages (Mean7)* to extract seasonal trends and reduce short-term volatility.
-* **Machine Learning Models:*** 
+* **Machine Learning Models:** 
     * Evaluated and compared **Random Forest** and **XGBoost** algorithms.
     * **Random Forest** emerged as the optimal model, achieving an $R^2$ score of up to **0.89** in the Freshwater zone, demonstrating high stability and precision in predicting price fluctuations.
     * *(Model Performance and Error Distribution)*
