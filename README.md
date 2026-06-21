@@ -5,7 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-RandomForest-orange)
 
 ## 1. Project Overview
-This seminar project investigates the complex relationship between climate change—specifically extreme weather events like saltwater intrusion and floods—and agricultural prices in the Mekong Delta (ĐBSCL) from 2021 to 2025. By applying Data Science and Machine Learning techniques, the study aims to quantify these impacts and establish a predictive framework to support decision-making for farmers and agricultural enterprises.
+This seminar project investigates the complex relationship between climate change—specifically extreme weather events like saltwater intrusion and floods—and agricultural prices in the Mekong Delta from 2021 to 2025. By applying Data Science and Machine Learning techniques, the study aims to quantify these impacts and establish a predictive framework to support decision-making for farmers and agricultural enterprises.
 
 **[Read the Full Seminar Report (PDF)](https://drive.google.com/file/d/1WztsW3ohQS0RmvLyb4hYYFb70dCQWRwy/view?usp=drive_link)**
 
