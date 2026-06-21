@@ -11,6 +11,8 @@ This seminar project investigates the complex relationship between climate chang
 
 
 ## 2. Technical Highlights
+*(Multivariate Correlation Heatmap)*
+![Correlation Heatmap](Charts/CorrelationHeatmap.png)
 * **Data Engineering & Preprocessing:**
     * Integrated daily meteorological data from *NASA POWER* with agricultural market price data from the *Ministry of Agriculture and Rural Development*.
     * Implemented *IQR-Capping* for outlier handling to preserve critical extreme weather signals while removing data entry noise.
@@ -18,17 +20,23 @@ This seminar project investigates the complex relationship between climate chang
 * **Feature Engineering:**
     * Designed *Lag Features* (Lag 7 and Lag 30 days) to capture the biological delay of crops and market reaction time following environmental shocks.
     * Utilized *Moving Averages (Mean7)* to extract seasonal trends and reduce short-term volatility.
-* **Machine Learning Models:**
+* **Machine Learning Models:*** 
     * Evaluated and compared **Random Forest** and **XGBoost** algorithms.
     * **Random Forest** emerged as the optimal model, achieving an $R^2$ score of up to **0.89** in the Freshwater zone, demonstrating high stability and precision in predicting price fluctuations.
+    * *(Model Performance and Error Distribution)*
+![Model Performance](Charts/ActualnPredicted.png)
 
 
 ## 3. Key Insights
 1. **Time-Lag Effect:** Our analysis confirmed that saltwater intrusion has a 30-day delayed impact on Durian prices, whereas rice prices react more immediately to flood-induced logistics disruptions.
+* ![Salinity Time-Lag](Charts/TimeLagEffect.png)
+
 2. **Region-Specific Drivers:**
     * **Salinity Cluster (Mặn):** Rainfall (Rain_Man_Mean7) is the most critical driver for Durian prices.
     * **Flood Cluster (Lụt):** Price volatility is primarily driven by temperature and water levels.
     * **Freshwater Cluster (Ngọt):** Temperature is the dominant factor influencing the growth cycle and price of premium rice varieties.
+    * *(Feature Importance for Region-Specific Drivers)*
+![Feature Importance](Charts/FeatureImportance.png)
 3. **Forecasting Reliability:** With a low Mean Absolute Error (MAE) ranging from 350-650 VNĐ for rice, the model provides a reliable basis for early-warning systems and production planning.
 
 
